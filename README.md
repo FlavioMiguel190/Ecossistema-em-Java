@@ -1,5 +1,5 @@
 # Ecossistema-em-Java
-Flavio Miguel Guilherme dos Santos- 01647888
+
 Projeto de Ecossistema em Java
 O que o projeto faz
 Este projeto é um simulador de ecossistema desenvolvido em Java. Ele permite aos usuários criar e observar a interação entre diferentes espécies em um ambiente virtual. Os usuários podem adicionar diferentes tipos de plantas e animais, definir suas características e ver como eles interagem ao longo do tempo.
